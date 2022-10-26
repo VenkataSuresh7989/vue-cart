@@ -1,0 +1,3 @@
+/* Login */
+.login{height: 100vh;flex-direction: column; background-image: url(../images/bg.png);background-repeat: no-repeat;background-size: cover;padding: 0 15px;}
+.isLogin{display: flex;align-items: center;justify-content: center;}
